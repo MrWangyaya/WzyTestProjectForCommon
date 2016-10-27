@@ -1,0 +1,71 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- 标题栏统一度高-->
+    <dimen name="toolsbar_height">40dp</dimen>
+
+    <!-- 和离手机屏幕边缘的距离-->
+    <dimen name="padding_screen">10dp</dimen>
+
+
+    <dimen name="text_10sp">10dp</dimen>
+    <dimen name="text_12sp">12dp</dimen>
+    <dimen name="text_13sp">13dp</dimen>
+    <dimen name="text_14sp">14dp</dimen>
+    <dimen name="text_15sp">15dp</dimen>
+    <dimen name="text_16sp">16dp</dimen>
+    <dimen name="text_17sp">17dp</dimen>
+    <dimen name="text_18sp">18dp</dimen>
+    <dimen name="text_19sp">19dp</dimen>
+    <dimen name="text_20sp">20dp</dimen>
+    <dimen name="text_22sp">22dp</dimen>
+    <dimen name="text_25sp">25dp</dimen>
+    <dimen name="text_30sp">30dp</dimen>
+    <dimen name="text_40sp">40dp</dimen>
+    <dimen name="text_50sp">50dp</dimen>
+
+    <dimen name="margin_3dp">3dp</dimen>
+    <dimen name="margin_5dp">5dp</dimen>
+    <dimen name="margin_8dp">8dp</dimen>
+    <dimen name="margin_10dp">10dp</dimen>
+    <dimen name="margin_12dp">12dp</dimen>
+    <dimen name="margin_15dp">15dp</dimen>
+    <dimen name="margin_20dp">20dp</dimen>
+    <dimen name="margin_30dp">30dp</dimen>
+    <dimen name="margin_40dp">40dp</dimen>
+    <dimen name="margin_50dp">50dp</dimen>
+
+    <dimen name="padding_5dp">5dp</dimen>
+    <dimen name="padding_6dp">6dp</dimen>
+    <dimen name="padding_8dp">8dp</dimen>
+    <dimen name="padding_10dp">10dp</dimen>
+    <dimen name="padding_15dp">15dp</dimen>
+    <dimen name="padding_20dp">20dp</dimen>
+
+    <dimen name="width_0dp">0dp</dimen>
+    <dimen name="width_1dp">1dp</dimen>
+    <dimen name="width_2dp">2dp</dimen>
+    <dimen name="width_8dp">8dp</dimen>
+    <dimen name="width_10dp">10dp</dimen>
+    <dimen name="width_20dp">20dp</dimen>
+    <dimen name="width_50dp">50dp</dimen>
+    <dimen name="width_60dp">60dp</dimen>
+
+    <dimen name="height_0dp">0dp</dimen>
+    <dimen name="height_1dp">1dp</dimen>
+    <dimen name="height_2dp">2dp</dimen>
+    <dimen name="height_5dp">5dp</dimen>
+    <dimen name="height_8dp">8dp</dimen>
+    <dimen name="height_10dp">10dp</dimen>
+    <dimen name="height_20dp">20dp</dimen>
+    <dimen name="height_25dp">25dp</dimen>
+    <dimen name="height_40dp">40dp</dimen>
+    <dimen name="height_50dp">50dp</dimen>
+    <dimen name="height_60dp">60dp</dimen>
+
+    <dimen name="corner_5dp">5dp</dimen>
+
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WzyTestProjectForCommon.iml" filepath="$PROJECT_DIR$/WzyTestProjectForCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonwzy/commonwzy.iml" filepath="$PROJECT_DIR$/commonwzy/commonwzy.iml" />
+    </modules>
+  </component>
+</project>
